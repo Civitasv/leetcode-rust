@@ -1,6 +1,5 @@
 use leetcode::tree::TreeNode;
 use std::cell::RefCell;
-use std::collections::VecDeque;
 use std::rc::Rc;
 
 fn main() {}
